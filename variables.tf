@@ -22,7 +22,7 @@ variable "Environment" {
     type = string
 }
 
-variable "sg_tags: {
+variable "sg_tags" {
     
     default = {}
 }
