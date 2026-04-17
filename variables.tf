@@ -1,18 +1,18 @@
-variables "sg_name" {
+variable "sg_name" {
     type = string
 }
 
-varibales "sg_description" {
+variable "sg_description" {
     type = string
 }
 
 
-varibales "vpc_id" {
+variable "vpc_id" {
 
     type = string
 }
 
-variables "Project" {
+variable "Project" {
 
     type = string
 }
