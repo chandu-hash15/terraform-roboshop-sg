@@ -4,7 +4,7 @@ locals {
 
         Project = var.Project
 
-        Environment = var.Environemnt
+        Environment = var.Environment
 
         Terraform = true
     }
