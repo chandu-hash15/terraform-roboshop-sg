@@ -9,5 +9,5 @@ locals {
         Terraform = true
     }
 
-    commom_name = "${var.Project}.${var.Environemnt}"
+    commom_name = "${var.Project}.${var.Environment}"
 }
