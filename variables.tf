@@ -23,6 +23,6 @@ variable "Environment" {
 }
 
 variable "sg_tags" {
-    
-    default = {}
+  type    = map(string)
+  default = {}
 }
